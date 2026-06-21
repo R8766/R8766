@@ -19,3 +19,34 @@ I'm continuously improving my skills, learning new technologies, and building pr
 
 Outside of coding, I enjoy exploring new ideas, contributing to meaningful projects, and turning creative concepts into working applications.
 
+## 🚀 Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🤖 AI & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,vscode,postman,vercel" />
+</p>
