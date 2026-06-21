@@ -45,8 +45,16 @@ Outside of coding, I enjoy exploring new ideas, contributing to meaningful proje
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🤖 AI & Tools
+### 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=,opencvgit,github,vscode,render" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,render" />
 </p>
+
+### 🤖 AI Assistants
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
