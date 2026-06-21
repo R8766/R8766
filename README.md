@@ -88,3 +88,27 @@ An intelligent AI chatbot built with a React frontend and a Flask backend, power
   <img src="https://streak-stats.demolab.com?user=R8766&theme=tokyonight&hide_border=true" />
 </p>
 
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:wakoderenu93@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/renu-wakode-7210ab394/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/R8766" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/MiNQEbCIo7/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+
