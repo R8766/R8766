@@ -58,3 +58,21 @@ Outside of coding, I enjoy exploring new ideas, contributing to meaningful proje
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
+## 📌 Featured Projects
+
+### 🎨 AI Image Generator
+
+An AI-powered web application that generates images from text prompts with a clean, responsive, and user-friendly interface.
+
+**Tech Stack:** React, JavaScript, HTML, CSS, AI API
+
+---
+
+### 🤖 NeoRex AI
+
+An intelligent AI chatbot built with a React frontend and a Flask backend, powered by the Grok API to deliver fast and interactive conversational responses.
+
+**Tech Stack:** React, JavaScript, Flask, Python, Grok API
+
+
+
