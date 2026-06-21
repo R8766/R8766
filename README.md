@@ -1,5 +1,10 @@
 # Hi there 👋, I'm Renu Wakode
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;AI+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+
 ### AI & Data Science Student | Full Stack Developer | AI Enthusiast
 
 ---
