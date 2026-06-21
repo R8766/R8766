@@ -112,3 +112,22 @@ An intelligent AI chatbot built with a React frontend and a Flask backend, power
 </p>
 
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=R8766&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+
+---
+
+## 🎯 Current Focus
+
+* 🤖 Building AI-powered web applications
+* 🌐 Learning and developing full-stack projects
+* 💡 Exploring machine learning and modern AI technologies
+* 🚀 Creating real-world projects to improve my skills
+
+
