@@ -75,4 +75,16 @@ An intelligent AI chatbot built with a React frontend and a Flask backend, power
 **Tech Stack:** React, JavaScript, Flask, Python, Grok API
 
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=R8766&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R8766&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=R8766&theme=tokyonight&hide_border=true" />
+</p>
 
