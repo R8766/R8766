@@ -48,5 +48,5 @@ Outside of coding, I enjoy exploring new ideas, contributing to meaningful proje
 ### 🤖 AI & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=,opencvgit,github,vscode,render" />
 </p>
