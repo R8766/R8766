@@ -1,23 +1,32 @@
 # Hi there 👋, I'm Renu Wakode
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;AI+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;AI+%26+LLM+Enthusiast;Building+Real-World+Applications;Learning+Something+New+Every+Day" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/R8766">
+    <img src="https://komarev.com/ghpvc/?username=R8766&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-### AI & Data Science Student | Full Stack Developer | AI Enthusiast
+<h3 align="center">
+  AI & Data Science Student • Full Stack Developer • AI Enthusiast
+</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **AI & Data Science** student who enjoys building intelligent applications and modern web solutions.
+🎓 I'm an **Artificial Intelligence & Data Science student** passionate about building practical, real-world applications.
 
-I love exploring **Artificial Intelligence, Machine Learning, Full Stack Development, and modern technologies** by creating practical projects that solve real-world problems.
+💻 I enjoy working across the **full stack**, from designing responsive user interfaces to building backend APIs and database-driven applications.
 
-I'm continuously improving my skills, learning new technologies, and building projects that challenge me to grow as a developer.
+🤖 I'm currently exploring **AI-powered applications, LLMs, RAG, and modern web technologies** while continuously strengthening my problem-solving and DSA skills.
 
-Outside of coding, I enjoy exploring new ideas, contributing to meaningful projects, and turning creative concepts into working applications.
+🚀 I believe the best way to learn is by building — so I turn ideas into working projects and keep challenging myself with new technologies.
+
+---
 
 ## 🚀 Tech Stack
 
@@ -33,10 +42,10 @@ Outside of coding, I enjoy exploring new ideas, contributing to meaningful proje
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
 ### 🗄️ Databases
@@ -45,35 +54,45 @@ Outside of coding, I enjoy exploring new ideas, contributing to meaningful proje
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🛠️ Tools
+### 🤖 AI & Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,render" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,render" />
 </p>
 
-### 🤖 AI Assistants
+---
+
+## 🌟 Featured Projects
+
+### 🚀 Zenith Prep AI
 
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <a href="https://zenith-prep-ai-1.onrender.com/home">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Zenith%20Prep%20AI-00BFFF?style=for-the-badge" />
+  </a>
 </p>
 
-## 📌 Featured Projects
+An AI-powered placement preparation platform designed to help students prepare smarter, track their progress, and stay consistent with their learning journey.
 
-### 🎨 AI Image Generator
+✨ **Features:**
 
-An AI-powered web application that generates images from text prompts with a clean, responsive, and user-friendly interface.
+* 🔐 User authentication with Login & Signup
+* 🔑 Google OAuth login
+* 📚 Placement preparation resources
+* 🤖 AI-powered assistance
+* 📊 Progress tracking
+* 🔥 Learning streak system
+* 🎯 Task and goal management
 
-**Tech Stack:** React, JavaScript, HTML, CSS, AI API
+**Tech Stack:** React, JavaScript, Node.js, Express.js, MongoDB, JWT, Google OAuth, AI APIs
 
 ---
 
 ### 🤖 NeoRex AI
 
-An intelligent AI chatbot built with a React frontend and a Flask backend, powered by the Grok API to deliver fast and interactive conversational responses.
+An intelligent AI chatbot built with a React frontend and Flask backend, powered by AI APIs to provide fast and interactive conversational experiences.
 
-**Tech Stack:** React, JavaScript, Flask, Python, Grok API
-
+**Tech Stack:** React, JavaScript, Flask, Python, AI APIs
 
 ---
 
@@ -81,17 +100,27 @@ An intelligent AI chatbot built with a React frontend and a Flask backend, power
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=R8766&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R8766&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R8766&layout=compact&theme=tokyonight&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=R8766&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🎯 Current Focus
+
+* 🤖 Building AI-powered web applications
+* 🌐 Developing full-stack projects with the MERN stack
+* 🧠 Learning LLMs and Retrieval-Augmented Generation (RAG)
+* 🧩 Strengthening Data Structures & Algorithms
+* 🚀 Building projects that solve real-world problems
+* 🌱 Continuously learning and improving as a developer
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:wakoderenu93@gmail.com">
@@ -110,15 +139,9 @@ An intelligent AI chatbot built with a React frontend and a Flask backend, power
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
- 
 
+---
 
-
-## 🎯 Current Focus
-
-* 🤖 Building AI-powered web applications
-* 🌐 Learning and developing full-stack projects
-* 💡 Exploring machine learning and modern AI technologies
-* 🚀 Creating real-world projects to improve my skills
-
-
+<p align="center">
+  <i>✨ Building. Learning. Improving. One project at a time. ✨</i>
+</p>
