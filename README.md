@@ -64,17 +64,17 @@
 
 ## 🌟 Featured Projects
 
-### 🚀 Zenith Prep AI
+### 🚀 Zenith Prep AI — Currently Building
 
 <p>
   <a href="https://zenith-prep-ai-1.onrender.com/home">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Zenith%20Prep%20AI-00BFFF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Explore%20Zenith%20Prep%20AI-00BFFF?style=for-the-badge" />
   </a>
 </p>
 
-An AI-powered placement preparation platform designed to help students prepare smarter, track their progress, and stay consistent with their learning journey.
+A full-stack placement preparation platform **currently under active development**, designed to help students prepare smarter, track their progress, and stay consistent throughout their placement preparation journey.
 
-✨ **Features:**
+✨ **Currently Implemented / Building:**
 
 * 🔐 User authentication with Login & Signup
 * 🔑 Google OAuth login
@@ -86,25 +86,37 @@ An AI-powered placement preparation platform designed to help students prepare s
 
 **Tech Stack:** React, JavaScript, Node.js, Express.js, MongoDB, JWT, Google OAuth, AI APIs
 
+> 🚧 This project is actively being developed, with more AI-powered features and improvements planned.
+
 ---
 
 ### 🤖 NeoRex AI
 
-An intelligent AI chatbot built with a React frontend and Flask backend, powered by AI APIs to provide fast and interactive conversational experiences.
+An AI-powered chatbot built with a Flask backend and interactive web interface to provide fast and conversational AI experiences.
 
-**Tech Stack:** React, JavaScript, Flask, Python, AI APIs
+**Tech Stack:** Python, Flask, HTML, CSS, JavaScript, AI APIs
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=R8766&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R8766&layout=compact&theme=tokyonight&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=R8766&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=R8766&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=R8766&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=R8766&theme=tokyonight&hide_border=true"
+    width="60%"
+  />
 </p>
 
 ---
@@ -123,6 +135,7 @@ An intelligent AI chatbot built with a React frontend and Flask backend, powered
 ## 🌐 Let's Connect
 
 <p align="center">
+
   <a href="mailto:wakoderenu93@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -132,12 +145,13 @@ An intelligent AI chatbot built with a React frontend and Flask backend, powered
   </a>
 
   <a href="https://github.com/R8766" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 
   <a href="https://leetcode.com/u/MiNQEbCIo7/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+
 </p>
 
 ---
