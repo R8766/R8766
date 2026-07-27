@@ -104,10 +104,6 @@ An AI-powered chatbot built with a Flask backend and interactive web interface t
   <a href="https://github.com/R8766?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View%20My%20Projects-181717?style=for-the-badge&logo=github" />
   </a>
-
-  <a href="https://github.com/R8766">
-    <img src="https://img.shields.io/github/followers/R8766?style=for-the-badge&logo=github&label=Followers" />
-  </a>
 </p>
 
 ## 🎯 Current Focus
