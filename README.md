@@ -101,25 +101,14 @@ An AI-powered chatbot built with a Flask backend and interactive web interface t
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=R8766&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    width="48%"
-  />
+  <a href="https://github.com/R8766?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20My%20Projects-181717?style=for-the-badge&logo=github" />
+  </a>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=R8766&layout=compact&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
+  <a href="https://github.com/R8766">
+    <img src="https://img.shields.io/github/followers/R8766?style=for-the-badge&logo=github&label=Followers" />
+  </a>
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=R8766&theme=tokyonight&hide_border=true"
-    width="60%"
-  />
-</p>
-
----
 
 ## 🎯 Current Focus
 
